@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { NavLink as Link } from 'react-router-dom';
-import { FaPizzaSlice } from 'react-icons/fa';
+import { FaFirstAid } from 'react-icons/fa';
 
 export const Nav = styled.nav`
   background: transparent;
@@ -11,7 +11,7 @@ export const Nav = styled.nav`
 `;
 
 export const NavLink = styled(Link)`
-  color: #fff;
+  color: #ffc500;
   font-size: 2rem;
   display: flex;
   align-items: center;
@@ -30,14 +30,14 @@ export const NavIcon = styled.div`
   top: 0;
   right: 0;
   cursor: pointer;
-  color: #fff;
+  color: #ffc500;
   p {
     transform: translate(-175%, 100%);
     font-weight: bold;
   }
 `;
 
-export const Bars = styled(FaPizzaSlice)`
+export const Bars = styled(FaFirstAid)`
   font-size: 2rem;
   transform: translate(-50%, -15%);
 `;

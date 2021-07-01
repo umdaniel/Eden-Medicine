@@ -1,66 +1,68 @@
-import product1 from '../../images/product-1.jpg';
-import product2 from '../../images/product-2.jpg';
-import product3 from '../../images/product-3.jpg';
-import sweet1 from '../../images/sweet3.jpg';
-import sweet2 from '../../images/sweet-2.jpg';
-import sweet3 from '../../images/sweet-3.jpg';
+import product1 from '../../images/whiteflower.jpg';
+import product2 from '../../images/ginseng.jpg';
+import product3 from '../../images/woodlock.png';
+import new1 from '../../images/ginkgo.jpg';
+import new2 from '../../images/redginseng.jpg';
+import new3 from '../../images/tea.jpg';
 
+// Most Popular section.
 export const productData = [
   {
     img: product1,
-    alt: 'Pizza',
-    name: 'Supreme Pizza',
+    alt: 'Oil',
+    name: 'White Flower Oil',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$19.99',
+      'This oil is infused with a lovely wintergreen scent that has the properties of cooling pain relief.',
+    price: '$10.99',
     button: 'Add to Cart'
   },
   {
     img: product2,
-    alt: 'Pizza',
-    name: 'Hawaiian Paradise',
+    alt: 'Extract',
+    name: 'Gineseng & Longan Liquid Extract',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$16.99',
+      'Chinese Herbal medicine formula that helps replenish blood energy to nourish the heart and energize the spleen.',
+    price: '$10.29',
     button: 'Add to Cart'
   },
   {
     img: product3,
-    alt: 'Pizza',
-    name: 'Veggie Overload',
+    alt: 'Oil',
+    name: 'Wood Lock Medicated Oil',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$14.99',
+      'Topical analgesic for a variety of issues, including: pain, sprains, and athritic irritation.',
+    price: '$16.99',
     button: 'Add to Cart'
   }
 ];
 
+// New Arrivals Section.
 export const productDataTwo = [
   {
-    img: sweet2,
-    alt: 'Donuts',
-    name: 'Doughlicious',
+    img: new1,
+    alt: 'Ginkgo',
+    name: 'Ginkgo Leaves',
     desc:
-      'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-    price: '$9.99',
+      'A bitter sweet medicinal leaf that helps alleviate coughing and wheezing. (Recommended dosage 9-12g)',
+    price: '$6.99',
     button: 'Add to Cart'
   },
   {
-    img: sweet3,
-    alt: 'Ice Cream',
-    name: 'Caramel Wonder',
+    img: new2,
+    alt: 'Ginseng',
+    name: 'Red Ginseng',
     desc:
-      'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
+      'A bitter sweet ginseng steamed at high temperatures for two hours before being dried. Used to treat fatigue, loss of appetite, and restlessness.',
     price: '$12.99',
     button: 'Add to Cart'
   },
   {
-    img: sweet1,
-    alt: 'Brownie',
-    name: 'Brownie Bunch',
+    img: new3,
+    alt: 'Chrysanthemum',
+    name: 'Chrysanthemum Tea',
     desc:
-      'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-    price: '$9.99',
+      'This flower has a golden hue and mild flowery flavor used to treat respiratory issues, high blood pressure, and hypothyroidism.',
+    price: '$4.99',
     button: 'Add to Cart'
   }
 ];

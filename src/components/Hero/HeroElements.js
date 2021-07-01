@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import ImgBg from '../../images/pizza-3.jpg';
+import ImgBg from '../../images/main.jpg';
 
 export const HeroContainer = styled.div`
   background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
@@ -49,11 +49,10 @@ export const HeroBtn = styled.button`
   font-size: 1.4rem;
   padding: 1rem 4rem;
   border: none;
-  background: #e31837;
+  background: #ffc500;
   color: #fff;
   transition: 0.2s ease-out;
   &:hover {
-    background: #ffc500;
     transition: 0.2s ease-out;
     cursor: pointer;
     color: #000;
