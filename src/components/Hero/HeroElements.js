@@ -50,11 +50,12 @@ export const HeroBtn = styled.button`
   padding: 1rem 4rem;
   border: none;
   background: #ffc500;
-  color: #fff;
+  color: #DD7230;
   transition: 0.2s ease-out;
   &:hover {
     transition: 0.2s ease-out;
     cursor: pointer;
-    color: #000;
+    background-color: #DD7230;
+    color: #854D27;
   }
 `;
