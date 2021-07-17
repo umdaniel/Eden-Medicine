@@ -1,3 +1,9 @@
+Revival Medicines:
+Languages: JavaScript, HTML, CSS
+Technologies: REACT
+
+A web application made to showcase a local Chinese Medicine shop in Falls Church, Virginia.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
