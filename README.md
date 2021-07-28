@@ -1,6 +1,6 @@
 Revival Medicines:
 Languages: JavaScript, HTML, CSS.
-Technologies: REACT.
+Technologies: REACT, Styled-Components.
 
 A web application made to showcase a local Chinese Medicine shop in Falls Church, Virginia.
 
