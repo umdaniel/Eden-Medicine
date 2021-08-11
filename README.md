@@ -17,8 +17,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The page will reload if you make edits.
 
 Revival Medicines:
 A web application designed for a local Chinese Medicine shop located in Falls Church, Va. The website features a list of some of the products avaliable as well as future products.
