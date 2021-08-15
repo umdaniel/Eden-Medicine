@@ -4,6 +4,10 @@ Technologies: REACT, Styled-Components.
 
 A web application made to showcase a local Chinese Medicine shop in Falls Church, Virginia.
 
+In the works:
+- Shopping cart functionality.
+- Sign in page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
