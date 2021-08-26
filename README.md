@@ -7,6 +7,7 @@ A web application made to showcase a local Chinese Medicine shop in Falls Church
 In the works:
 - Shopping cart functionality.
 - Sign in page.
+- Register page.
 
 # Getting Started with Create React App
 
